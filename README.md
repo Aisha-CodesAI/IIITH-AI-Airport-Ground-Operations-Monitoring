@@ -42,14 +42,33 @@ Airport_Project/
 │
 ├── airport.mp4
 ├── airport_object_detection_video.mp4
+├── videoplayback.mp4
+│
 ├── best.pt
-├── train/
-├── val/
-├── labels/
-├── detect.py
-├── requirements.txt
-└── README.md
-```
+├── last.pt
+│
+├── README.md
+├── data.yaml
+│
+├── BoxF1_curve.png
+├── BoxPR_curve.png
+├── BoxP_curve.png
+├── BoxR_curve.png
+│
+├── confusion_matrix.png
+├── confusion_matrix_normalized.png
+├── labels.jpg
+├── results.png
+│
+├── train_batch0.jpg
+├── train_batch1.jpg
+├── train_batch2.jpg
+├── train_batch540.jpg
+├── train_batch541.jpg
+├── train_batch542.jpg
+│
+├── val_batch0_labels.jpg
+└── val_batch0_pred.jpg
 
 ---
 
