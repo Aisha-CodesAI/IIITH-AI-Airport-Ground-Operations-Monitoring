@@ -1,0 +1,10 @@
+path: dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: airplane
+  1: airport_vehicle
+  2: baggage_cart
+  3: containers
